@@ -21,7 +21,10 @@ body {
     padding-bottom: 20px;
     padding-left: 10px;
     padding-right: 10px;
+<<<<<<< HEAD
     background-color: #f5f4f0;
+=======
+>>>>>>> style-experiment
 }
 header {
     display: inline-block;
@@ -51,9 +54,15 @@ nav img {
 }
 .plants {
     font-family: 'Roboto', sans-serif;
+<<<<<<< HEAD
     color: #516a4c; 
     background-color: transparent;
     border: #516a4c;
+=======
+    color: #ff2a50; 
+    background-color: transparent;
+    border: #ff2a50;
+>>>>>>> style-experiment
     border-style: solid;
     font-size: 0.8rem;
     height: 25px;
@@ -70,9 +79,15 @@ nav img {
 }
 .about {
     font-family: 'Roboto', sans-serif;
+<<<<<<< HEAD
     color: #516a4c; 
     background-color: transparent;
     border: #516a4c;
+=======
+    color: #ff2a50; 
+    background-color: transparent;
+    border: #ff2a50;
+>>>>>>> style-experiment
     border-style: solid;
     font-size: 0.8rem;
     height: 25px;
@@ -139,7 +154,10 @@ button {
     font-family: 'Roboto', sans-serif;
     font-size: 0.8rem;
     color: #516a4c; 
+<<<<<<< HEAD
     background-color: #f5f4f0;
+=======
+>>>>>>> style-experiment
     padding-top: 60px;
     padding-bottom: 80px;
 }
